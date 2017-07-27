@@ -49,7 +49,6 @@ setup(
         'djmoney.contrib.django_rest_framework',
     ],
     install_requires=[
-        'setuptools',
         'Django>=1.8',
         'py-moneyed>=0.7'
     ],
